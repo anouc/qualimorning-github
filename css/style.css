@@ -2,6 +2,7 @@ body {
 	background-image: url(../images/grid.png);
 	font-family: "Raleway";
 	font-size: 16px;
+	text-align: center;
 }
 
 #wrapper {
@@ -71,6 +72,24 @@ body {
 }
 
 #apropos h2 {
+	color: #25CBCB;
+	font-size: 35px;
+	font-weight: bold;
+	border-right: 1px solid #25CBCB;
+	border-left: 1px solid #25CBCB;
+	border-right-width: 100px;
+	border-left-width: 100px;
+	height: 3px;
+	display: inline-block;
+	top: 50%;
+	right: 100%;
+	float: none;
+	zoom: 1;
+	padding: 0 20px;
+	padding-border-top: 100px
+}
+
+#video h2 {
 	color: #25CBCB;
 	font-size: 35px;
 	font-weight: bold;
