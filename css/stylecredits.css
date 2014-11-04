@@ -1,0 +1,28 @@
+body {
+	background-color: rgb(252, 252, 252);
+	font-family: "Raleway";
+	font-size: 16px;
+}
+
+#wrapper {
+	background-image: url(../images/iheartyou4gimp.png);
+	height: 640px;
+	background-position: bottom;
+	background-size: cover;
+	text-align: center;
+	padding-top: 20px;
+	color: #404040;
+	text-shadow: 2px 2px 5px rgba(64, 64, 64, 0.5);
+}
+
+
+#wrapper h1 {
+	font-size: 40px;
+	background: rgba(255, 255, 255, 0.7);
+	display: inline-block;
+	padding: 0.2em;
+}
+
+#wrapper a {
+	color: #f9646d;
+}

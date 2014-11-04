@@ -218,8 +218,8 @@ body {
 #footer {
 	background-color: rgba(37, 213, 203, 0.4);
 	color: white;
-	padding-top: 5em;
-	padding-bottom: 5em;
+	padding-top: 3em;
+	padding-bottom: 3em;
 }
 
 #footer h3 {
@@ -251,4 +251,9 @@ body {
 
 #footer2 {
 	text-align: center;
+}
+
+#footer2 a {
+	color : rgb(0, 197, 210);
+	text-decoration: none;
 }
