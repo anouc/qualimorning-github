@@ -25,3 +25,7 @@ body {
 #wrapper a {
 	color: #f9646d;
 }
+
+#wrapper h2 {
+	font-family: 'Raleway';
+}
