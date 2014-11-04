@@ -129,6 +129,11 @@ body {
 	padding-border-top: 100px
 }
 
+#programme li {
+	text-align: left;
+	padding-left: 25em;
+}
+
 #equipe {
 	text-align: center;
 }
