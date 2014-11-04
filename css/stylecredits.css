@@ -1,6 +1,5 @@
 body {
 	background-color: rgb(252, 252, 252);
-	font-family: "Raleway";
 	font-size: 16px;
 }
 
@@ -12,12 +11,12 @@ body {
 	text-align: center;
 	padding-top: 20px;
 	color: #404040;
-	text-shadow: 2px 2px 5px rgba(64, 64, 64, 0.5);
 }
 
 
 #wrapper h1 {
 	font-size: 40px;
+	font-family: 'Raleway';
 	background: rgba(255, 255, 255, 0.7);
 	display: inline-block;
 	padding: 0.2em;
