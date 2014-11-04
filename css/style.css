@@ -164,10 +164,6 @@ body {
 }
 
 
-#inscriptionfinal {
-	padding-top: 5em;
-	padding-bottom: 5em;
-}
 
 #button2{
 	background-color: rgb(255, 192, 0); 
@@ -188,62 +184,48 @@ body {
 	text-decoration: none;
 }
 
-.box {
-	padding: 15px;
-	padding-left: 50px;
-	margin-left: 250px;
-	margin-right: 250px;
-	background: white;
-	border: 1px solid white;
-	position: center;
-	box-shadow: 0 0 23px rgba(0,0,0,0.25);
-}
+
+
 
 #contact h2 {
 	margin-top: 0px;
 }
 
-#contact h4 {
-	font-size: 12px;
-	font-style: italic;
+#contact h2 {
+	color: #25CBCB;
+	font-size: 35px;
+	font-weight: bold;
+	border-right: 1px solid #25CBCB;
+	border-left: 1px solid #25CBCB;
+	border-right-width: 100px;
+	border-left-width: 100px;
+	height: 3px;
+	display: inline-block;
+	top: 50%;
+	right: 100%;
+	float: none;
+	zoom: 1;
+	padding: 0 20px;
+	padding-border-top: 100px
+}
+
+#contact a {
+	color: rgb(38,38,38);
+}
+
+#contact a:hover {
+	color: white;
+	text-decoration: none;
 }
 
 
-
-
-
-
-
-
-#footer {
+#contact {
 	background-color: rgba(37, 213, 203, 0.4);
-	color: white;
+	color: black;
 	padding-top: 3em;
 	padding-bottom: 3em;
 }
 
-#footer h3 {
-	font-size: 22px;
-	color: #404040;
-	margin: 10px;
-	text-align: center;
-}
-
-#footer h3 a{
-	color: rgb(40, 40, 40);
-	text-decoration: none;
-	font-size: 18px;
-}
-
-#footer a:hover {
-	color: white;
-}
-
-#footer p {
-	color: rgb(40, 40, 40);
-	text-align: center;
-	font-size: 13px;
-}
 
 .label {
 	background-color: rgb(255, 192, 0);
@@ -251,9 +233,16 @@ body {
 
 #footer2 {
 	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
 
 #footer2 a {
-	color : rgb(0, 197, 210);
+	color : rgb(38, 38, 38);
+	text-decoration: none;
+}
+
+#footer2 a:hover {
+	color: white;
 	text-decoration: none;
 }
